@@ -4,7 +4,7 @@ module "account_request_01" {
   control_tower_parameters = {
     AccountEmail              = "jmajumdar+testaft2@yahoo.com"
     AccountName               = "testaft2"
-    ManagedOrganizationalUnit = "ou-pddm-8fufda08" 
+    ManagedOrganizationalUnit = "NonProd (ou-pddm-vubjsjwa)"
     SSOUserEmail              = "jmajumdar+testaft2@yahoo.com"
     SSOUserFirstName          = "Junaid"
     SSOUserLastName           = "Majumdar"
